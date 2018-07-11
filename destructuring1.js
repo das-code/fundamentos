@@ -7,7 +7,7 @@ const pessoa = {
   }
 }
 
-// Recupera nome e idade do objeto pessao
+// Recupera nome e idade do objeto pessoa
 const { nome, idade } = pessoa
 console.log(nome, idade)
 
