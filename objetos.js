@@ -8,6 +8,7 @@ console.log(produto)
 const produto2 = {
   nome: 'Camisa polo',
   preco: 79.90,
+  desc: 0.15
 }
 
 console.log(produto2)
